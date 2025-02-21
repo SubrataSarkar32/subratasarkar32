@@ -2,11 +2,11 @@
 
 ### Hi there, I'm Subrata Sarkar  👋
 
-## Pursuing MTech@NITDGP24!
+## Working as Senior Engineer@SSIR!
 
 <img align='right' src='https://raw.githubusercontent.com/tal-zvon/tal-zvon/main/assets/Hand_Wave.gif' width='100"'>
 
-* 🔭 I’m currently working on **Deep Learning Architectures** 😁
+* 🔭 I’m currently working on **Digital Transformation with GenAI** 😁
 * 🌱 I’m currently learning everything 🤣
 * 💬 Ask me about anything, I am happy to help
 * 😄 Pronouns: **Coder** and **Kind Hearted**
@@ -71,15 +71,15 @@
 ### Version Control System :
 
 [<img align="left" alt="Git" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website] 
-[<img align="left" alt="GitHub" width="39px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/github_logo_icon_147285.png" />][website] 
-[<img align="left" alt="BitBucket" width="39px" src="https://cdn.icon-icons.com/icons2/2429/PNG/512/bitbucket_logo_icon_147312.png" />][website]
+[<img align="left" alt="GitHub" width="39px" src="https://github.com/rdimascio/icons/blob/master/icons/light/github.svg" />][website] 
+[<img align="left" alt="BitBucket" width="39px" src="https://github.com/rdimascio/icons/blob/master/icons/light/bitbucket.svg" />][website]
 
 <br/>
 
 ### Command Line Access:
 
 [<img align="left" alt="Terminal" width="39px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
-[<img align="left" alt="Terminal" width="39px" src="https://cdn.icon-icons.com/icons2/125/PNG/128/cmd_20223.png" />][website]
+[<img align="left" alt="Terminal" width="39px" src="https://icons.iconarchive.com/icons/dakirby309/simply-styled/256/OS-Linux-icon.png" />][website]
 
 <br/>
 
